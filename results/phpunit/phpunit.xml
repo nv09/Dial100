@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites>
-  <testsuite name="GumballMachineTest" file="/app/tests/GumballMachineTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.008531">
-    <testcase name="testIfWheelWorks" class="GumballMachineTest" file="/app/tests/GumballMachineTest.php" line="15" assertions="1" time="0.008531"/>
-  </testsuite>
-</testsuites>
